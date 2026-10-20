@@ -1,0 +1,8 @@
+[
+  {"id": 1, "name": "Aarav", "from": "aarav@example.com", "subject": "App crashes on startup", "body": "Since the update the app crashes immediately. I cannot use it at all, please help."},
+  {"id": 2, "name": "Meera", "from": "meera@example.com", "subject": "Charged twice this month", "body": "I was charged twice for my subscription. This is urgent, please refund one payment."},
+  {"id": 3, "name": "Rohan", "from": "rohan@example.com", "subject": "Can't log in", "body": "I forgot my password and I'm locked out of my account."},
+  {"id": 4, "name": "Sneha", "from": "sneha@example.com", "subject": "Dark mode suggestion", "body": "It would be great if you could add dark mode. Just a suggestion!"},
+  {"id": 5, "name": "Unknown", "from": "promo@spam.biz", "subject": "WIN A PRIZE", "body": "Click here now for free money and a crypto giveaway!"},
+  {"id": 6, "name": "Kabir", "from": "kabir@example.com", "subject": "Question about opening hours", "body": "Hello, what time does your support team work?"}
+]
